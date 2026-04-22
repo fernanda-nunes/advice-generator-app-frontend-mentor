@@ -1,20 +1,20 @@
-# Advice generator app
+# Advice Generator App
 
-<p><b>Essa é a solução do exercício dos módulo de JavaScript intermediário, proposto pelo curso DevQuest.</b></p>
+<p>Essa é a solução do exercício do módulo de JavaScript, proposto pelo curso DevQuest.</p>
 
 ## Visão Geral 
 
 ###  Projeto 
-<b>O objetivo é desenvolver um aplicativo que ao clicar no ícone é gerado um novo conselhos.
+<b>O objetivo do projeto é desenvolver um aplicativo que gere conselhos aleatórios usando a  API Advice Slipuma.
 
 ###  Desafio
 
-<b>O desafio consiste em desenvolver um aplicativo o clicar no ícone é gerado um novo conselhos aleatório usando a API Advice Slipuma, e apartir dos designs e funcionalidades fornecidas. 
+<b>O desafio consiste em desenvolver um aplicativo, apartir dos designs fornecidas, que ao clicar no ícone da tela, é gerado um novo conselho aleatório usando a API Advice Slipuma.
 
 ### Funcionalidades 
 <ul>
  <li>Visualizar o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo;</li>
-<li>Gerar um novo conselho clicando no ícone do dado;</li>
+<li>Gerar um novo conselho clicando no ícone da tela;</li>
 <li>Ver os estados de foco de todos os elementos interativos na página.</li>
 </ul>
 
